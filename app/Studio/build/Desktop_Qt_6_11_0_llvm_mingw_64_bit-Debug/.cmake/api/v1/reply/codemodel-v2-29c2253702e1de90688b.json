@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-929df87b9e2b8fe45a93.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AetherMaxwellStudio",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AetherMaxwellStudio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AetherMaxwellStudio-Debug-252a3c80056b8d93e779.json",
+					"name" : "AetherMaxwellStudio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AetherMaxwellStudio_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AetherMaxwellStudio_autogen-Debug-4830ad7ea4840bba8f32.json",
+					"name" : "AetherMaxwellStudio_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AetherMaxwellStudio_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AetherMaxwellStudio_autogen_timestamp_deps-Debug-e9967329db7eafca808d.json",
+					"name" : "AetherMaxwellStudio_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AetherMaxwellStudio_lrelease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AetherMaxwellStudio_lrelease-Debug-ce8042af576c63c63675.json",
+					"name" : "AetherMaxwellStudio_lrelease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AetherMaxwellStudio_lupdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AetherMaxwellStudio_lupdate-Debug-d9b31d0e5a8c5e045db0.json",
+					"name" : "AetherMaxwellStudio_lupdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "release_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-release_translations-Debug-7500a381c8da26367aa3.json",
+					"name" : "release_translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update_translations-Debug-eeeb4aa3a022c5034a1b.json",
+					"name" : "update_translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/Qt/Aether-Maxwell-Studio/app/Studio/build/Desktop_Qt_6_11_0_llvm_mingw_64_bit-Debug",
+		"source" : "D:/Projects/Qt/Aether-Maxwell-Studio/app/Studio"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

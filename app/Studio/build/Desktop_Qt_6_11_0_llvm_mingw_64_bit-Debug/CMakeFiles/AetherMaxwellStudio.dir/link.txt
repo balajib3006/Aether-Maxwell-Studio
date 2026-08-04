@@ -1,0 +1,3 @@
+D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\AetherMaxwellStudio.dir/objects.a
+D:\Qt\Tools\llvm-mingw1706_64\bin\llvm-ar.exe qc CMakeFiles\AetherMaxwellStudio.dir/objects.a @CMakeFiles\AetherMaxwellStudio.dir\objects1.rsp
+D:\Qt\Tools\llvm-mingw1706_64\bin\clang++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\AetherMaxwellStudio.dir/objects.a -Wl,--no-whole-archive -o AetherMaxwellStudio.exe -Wl,--out-implib,libAetherMaxwellStudio.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AetherMaxwellStudio.dir\linkLibs.rsp
